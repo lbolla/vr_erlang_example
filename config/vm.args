@@ -1,0 +1,6 @@
+-sname vr_erlang_example
+
+-setcookie vr_erlang_example_cookie
+
++K true
++A30

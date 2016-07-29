@@ -1,0 +1,1 @@
+web: _build/default/rel/vr_erlang_example/bin/vr_erlang_example foreground
